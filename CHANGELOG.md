@@ -1,5 +1,5 @@
 # Deity+ Difficulty Changelog
-## v1.0 (October 2, 2020 Update)
+## v1.0 (October 2, 2021 Update)
 *Initial Release*
 ### Major Changes
 - Added the **Deity+** Difficulty
