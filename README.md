@@ -9,4 +9,4 @@ impossible, which is why there are ruins bonuses that are slightly buffed when *
 means that AIs can also benefit from the buffed bonuses, so better explore and find the ruins fast!
 
 ## Changelog:
-*See [CHANGELOG.md](https://github.com/not-navyblue/Deity-Difficulty/blob/main/CHANGELOG.md).*
+*See [CHANGELOG.md](https://github.com/not-navyblue/DeityPlus-Difficulty/blob/main/CHANGELOG.md).*
