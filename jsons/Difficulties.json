@@ -1,0 +1,33 @@
+[
+	{
+		"name": "Deity+",
+		"baseHappiness": 7,
+		"extraHappinessPerLuxury": 0,
+		"researchCostModifier": 1.3,
+		"unitCostModifier": 1.1,
+		"unitSupplyBase": 3,
+		"unitSupplyPerCity": 2,
+		"buildingCostModifier": 1.3,
+		"policyCostModifier": 1.3,
+		"unhappinessModifier": 1,
+		"barbarianBonus": -0.05,
+		"playerBonusStartingUnits": [],
+		"aiCityGrowthModifier": 0.5,
+		"aiUnitCostModifier": 0.45,
+		"aiBuildingCostModifier": 0.45,
+		"aiWonderCostModifier": 1,
+		"aiBuildingMaintenanceModifier": 0.4,
+		"aiUnitMaintenanceModifier": 0.45,
+		"aiUnitSupplyModifier": 0.8,
+		"aiFreeTechs": ["Pottery", "Animal Husbandry" ,"Mining", "The Wheel", "Trapping", "Archery"],
+		"aiMajorCivBonusStartingUnits": [
+			"Settler", "Worker", "Worker", "Scout", "Scout",
+			"Era Starting Unit", "Era Starting Unit", "Era Starting Unit", "Era Starting Unit"
+		],
+		"aiCityStateBonusStartingUnits": ["Worker", "Scout", "Era Starting Unit"],
+		"aiUnhappinessModifier": 0.5,
+		"aisExchangeTechs": true,
+		"turnBarbariansCanEnterPlayerTiles": 0,
+		"clearBarbarianCampReward": 20
+	}
+]
